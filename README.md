@@ -21,7 +21,7 @@ Portal Książkowy to aplikacja ASP.NET Core, która umożliwia użytkownikom pr
 3. Uruchom Visual Studio
 4. Zaimportuj projekt za pomocą opcji otwórz projekt lub rozwiązanie, wskaż w projekcie plik PortalKsiazkowy.sln
 5. Otwórz Narzędzia -> Menedżer pakietów NuGet -> Konsola menedżera pakietów
-6. Uruchom polecenia:<br>
+6. Uruchom polecenia<br>
 dotnet tool install --global dotnet-ef <br>
 
 dotnet ef migrations add InitialCreate <br>
