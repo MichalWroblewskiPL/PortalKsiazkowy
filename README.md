@@ -23,6 +23,9 @@ Portal Książkowy to aplikacja ASP.NET Core, która umożliwia użytkownikom pr
 5. Otwórz Narzędzia -> Menedżer pakietów NuGet -> Konsola menedżera pakietów
 6. Uruchom polecenia: 
 dotnet tool install --global dotnet-ef
+
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
-7. Uruchom projekt
+
+8. Uruchom projekt
